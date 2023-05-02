@@ -23,7 +23,6 @@ table{
     height: 700px;
     border-collapse: collapse;
     position: relative;
-    text-align: center;
     
 
 }
@@ -67,3 +66,5 @@ th{
 .numero{
     text-align: center;
 }
+
+
